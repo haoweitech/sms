@@ -1,0 +1,23 @@
+{
+  "name": "hwtech/sms",
+  "license": "MIT",
+  "type": "library",
+  "description": "Haowei Tech SMS to send sdk",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "haoweitech",
+      "email": "git@haowei.tech"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hwtech\\Sms\\": "src/"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# SMS-PHP-SDK
+短信API接口（PHP版）
